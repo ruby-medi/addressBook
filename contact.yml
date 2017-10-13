@@ -1,0 +1,17 @@
+---
+- !ruby/object:Contact
+  phone_numbers:
+  - !ruby/object:PhoneNumber
+    kind: home
+    number: 456 789 343
+  addresses:
+  - !ruby/object:Address
+    kind: home
+    street_1: 3744 martial
+    street_2: ''
+    city: montreal
+    state: quebec
+    postal_code: h1h1w1
+  first_name: hao
+  middle_name: ''
+  last_name: zheng
